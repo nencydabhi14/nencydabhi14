@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-💫 About Me:
-----------------------------------------------------------------------------------------
 
 🛒 I'm currently working on an E-commerce Application (Like Meesho)
 
