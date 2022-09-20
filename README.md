@@ -26,15 +26,16 @@ Linkedin ➞ Nency Dabhi
 ➞ I know a multiple language knowledge
 
 
-  c language
+  C  language
   
-  c++ language
+  C++ language
   
-  java 
+  java-programming-language  
   
-  PHP
-  
+  PHP 
+ 
   Kotlin
+  
   
  ➞ Software I use Like
  
