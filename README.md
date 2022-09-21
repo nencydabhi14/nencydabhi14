@@ -21,6 +21,8 @@ Twitter ➞  @Nency_dabhi
 Linkedin ➞ Nency Dabhi
 
 
+
+
 ➞ I know a multiple language knowledge
 ----------------------------------------------------------------------------------------
 
@@ -45,6 +47,9 @@ Linkedin ➞ Nency Dabhi
   Figma
   
   Db Browser
+  
+  
+  ![giphy](https://user-images.githubusercontent.com/101623395/191564115-1743d4ee-12f1-4d2e-bbcb-f5a89924b939.gif)
   
   
 
